@@ -89,7 +89,7 @@ class App extends  React.Component  {
     render() {
           return (
             <div className="App">
-               <h1>cambiado</h1>
+               <h1>ahora si</h1>
                 <Menu 
                     title="PELICULAS"
                     onadd={this.onAdd}
