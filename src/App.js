@@ -89,7 +89,7 @@ class App extends  React.Component  {
     render() {
           return (
             <div className="App">
-               <h1>modificado</h1>
+               <h1>cambiado</h1>
                 <Menu 
                     title="PELICULAS"
                     onadd={this.onAdd}
